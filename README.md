@@ -1,1 +1,1 @@
-This is the first task in Foundations of AI unit
+This repository includes tasks in Foundations of AI unit
